@@ -1,0 +1,24 @@
+redux(state management tool system)
+
+problem..
+prop drilling.
+
+
+REDUX(Store),
+redux provider 3 products for convert to global
+Reducer,
+Action,
+Store..
+
+HackaThon..
+1. Boiler Plate of reactjs,
+2. login signup screen with firebae database connect with login and signup routes also,
+3. Third , you have to create a dashboard screen,
+4. at least create five to six links of dashboard screen with nested routing with dasboard nested screens,
+5. create basic components such as:input, form, table, icon button, radio buttons, simple button,
+5. libraties of reactjs pre installed:
+react-router-dom,
+axios,
+react-redux, redux-toolkit, firebase, mui/ tailwind css,
+7. Basic pages
+login page with login form, signup page with sign form, dashboard screen..
